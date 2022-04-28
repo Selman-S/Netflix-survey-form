@@ -11,6 +11,7 @@ body {
     background-image: url("background_image.jpg");
     background-color: #fff;
     color: #fff;
+    background-position: center;
 }
 .container {
     background-color: rgba(0, 0,0 , 0.5);
